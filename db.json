@@ -1,0 +1,133 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+ 
+   ],
+  "Categories": [
+    {
+      "name_category": "Evie Tamala",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/evietamala.jpg"
+    },
+    {
+      "name_category": "Ikke Nurjanah",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/ikkenurjanah.jpg"
+    },
+    {
+      "name_category": "Imam S Arifin",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/imamsarifin.jpg"
+    },
+    {
+      "name_category": "Mansyur S",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/mansyurs.jpg"
+    },
+    {
+      "name_category": "Meggy Z",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/meggyz.jpg"
+    },	
+    {
+      "name_category": "Rhoma Irama",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/rhomairama.jpg"
+    },
+    {
+      "name_category": "Rita Sugiarto",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/ritasugiarto.jpg"
+    },
+    {
+      "name_category": "Sabyan",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/sabyan.jpg"
+    },	
+    {
+      "name_category": "Via Vallen",
+      "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/via%20vallen.jpg"
+    }
+  ],
+  "Video": [
+    {
+      "id": 1,
+      "name_category": "Kaffah Official",
+      "title": "Bumi Syam : Tanah Para Nabi",
+      "image": "file:///android_asset/image/syam.jpg",
+      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
+    },
+    {
+      "id": 2,
+      "name_category": "Kaffah Official",
+      "title": "Tiupan Sangsakala Hari Kiamat",
+      "image": "file:///android_asset/image/sangsakala.jpg",
+      "link_video": "https://ia601509.us.archive.org/31/items/alien2_202203/alien.mp4",
+      "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "Kaffah Official",
+      "title": "Kisah Turunnya Kitab Taurat",
+      "image": "https:/aliendro.id/uploads/demo/videoonline/taurat.jpg",
+      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "description": "Contoh Video 3 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    }
+    ,
+    {
+      "id": 4,
+      "name_category": "Kaffah Official",
+      "title": "Runtuhnya Israel Di Akhir Zaman",
+      "image": "file:///android_asset/image/israel.jpg",
+      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "description": "Contoh Video 4 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "Kaffah Official",
+      "title": "Sejarah Perang Khandak",
+      "image": "file:///android_asset/image/khandak.jpg",
+      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "description": "Contoh Video 5 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Kaffah Official",
+      "title": "Sejarah Perang Ain Zalut",
+      "image": "file:///android_asset/image/zalut.jpg",
+      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "description": "Contoh Video 6 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    } ,
+    {
+      "id": 7,
+      "name_category": "Ferry Chanel",
+      "title": "Kisah Imam Malik",
+      "image": "https://img.youtube.com/vi/LMfGloeVWTE/maxresdefault.jpg",
+      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "description": "Contoh Video 7 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    },
+    {
+      "id": 8,
+      "name_category": "Ferry Chanel",
+      "title": "Alam Malaikat",
+      "image": "https://img.youtube.com/vi/-RFS6z52LgY/maxresdefault.jpg",
+      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "description": "Contoh Video 8 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    }
+  ]
+}
