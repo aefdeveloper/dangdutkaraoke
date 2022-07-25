@@ -1076,6 +1076,14 @@
         "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/playlist/imamsarifin.jpg",
         "link_video": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/imam-s-arifin/Zubaidah.mp4",
         "description": "Video Karaoke Non Vokal"
-      }
+      },
+      {
+        "id": 128,
+        "name_category": "Sabyan",
+        "title": "Ya Maulana",
+        "image": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/01.image/playlist/sabyan.jpg",
+        "link_video": "http://tukumaning.miemiebrownie.com/tukudroid/karaoke/sabyan/Ya-Maulana.mp4",
+        "description": "Video Karaoke Non Vokal"
+      }      
   ]
 }
